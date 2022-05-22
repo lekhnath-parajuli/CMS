@@ -1,0 +1,26 @@
+# before rinning code
+    1. add 2 jar file to the
+        intellij File->Project Structure->Modules->Dependencies
+        if you didn't have added already
+
+        jar files are in this same project file called "sql Connectors"
+    2. start xampp
+    3. all other task related to creating and uploading values to database will be done autometically.
+
+    3. on some jtextfield you have to press enter to execute action
+
+    4. at first all the data in text file has to be upload to the database so do not cancel while doing it
+	it will not effect on anything but the data which have to be uploaded will be corrupted and
+        you have go delete thedatabase np03a190308 and re run the application
+
+    5. on course administrator student performance section is a bit slower because it loads all student marksheet 
+	shows them all at first. so wait till it shows marksheet it will show the marksheet it is not a bug.
+
+    6. while creatring marksheet you have enter student id at right text field and it will ask you to add mark
+       on each module one by one and after adding all mark hit generate to save at last
+
+
+# extra information
+
+    1. Java version 15.0.2
+    2. intellij and netbeans(ui) but it runs on intellij
